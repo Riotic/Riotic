@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riotic
-I'm actually 7th kyu on codewars and i plan to make a "coup d'Etat" and reach the top.
-I'm learning microsoft courses for c# and will probably try to reach big levels on LeetCode and CodingGame too. 
+I'm actually 6th kyu on codewars and i plan to make a "coup d'Etat" and reach the top.
+I'm learning Microsoft courses for c# and will probably try to reach big levels on LeetCode and CodingGame too. 
 Don't hesitate to reach me for an intern.
 
 - 📫 How to reach me -> clemen_r@etna-alternance.net
